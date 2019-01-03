@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `PASTEL COLORS`,
+    title: `PASTEL COLORS BLOG`,
     author: `Pastel`,
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://pastelcolors.netlify.com/`,
