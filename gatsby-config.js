@@ -3,7 +3,7 @@ module.exports = {
     title: `PASTEL COLORS`,
     author: `Pastel`,
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`
+    siteUrl: `https://pastelcolors.netlify.com/`
   },
   plugins: [
     {
